@@ -281,6 +281,24 @@ User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
 $ git log> logs.txt
 
 
+User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
+$ ls
+167001.txt  README.md  SILab1Main.java  SILab1_1.java  SILab1_2.java  logs.txt
+
+User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
+$ git clone https://github.com/elenaefremovskainf/SI_2024.git
+Cloning into 'SI_2024'...
+remote: Enumerating objects: 87, done.
+remote: Counting objects: 100% (26/26), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 87 (delta 21), reused 18 (delta 18), pack-reused 61
+Receiving objects: 100% (87/87), 10.36 KiB | 461.00 KiB/s, done.
+Resolving deltas: 100% (32/32), done.
+
+
+
+
+
 
 
 
