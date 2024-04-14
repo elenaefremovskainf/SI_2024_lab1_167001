@@ -280,6 +280,31 @@ Everything up-to-date
 User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
 $ git log> logs.txt
 
+User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
+$ ls
+167001.txt  README.md  SILab1Main.java  SILab1_1.java  SILab1_2.java  logs.txt
+
+User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
+$ git add logs.txt 167001.txt
+
+User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
+$ git commit -m "Final commit"
+[master a2dc74f] Final commit
+ 4 files changed, 693 insertions(+)
+ create mode 100644 167001.txt
+ create mode 100644 167001.txt.txt
+ create mode 100644 logs.txt
+ create mode 100644 logs.txt.txt
+
+User@DESKTOP-7G2RS2D MINGW64 ~/SI_2024_lab1_167001 (bug2|REBASE 2/2)
+$ git push prigin --all
+fatal: 'prigin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
 
 
 
