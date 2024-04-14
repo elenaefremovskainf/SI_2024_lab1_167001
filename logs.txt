@@ -1,0 +1,75 @@
+commit 24a33d9e5c0be4a73eb579b2a02891df6e5311f4
+Merge: 8a0585e 8b2eb50
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sun Apr 14 16:53:11 2024 +0200
+
+    Resolve merge conflict in SILab1Main.java
+
+commit 8b2eb50dcf982287b833050768a51e37dde36759
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sun Apr 14 16:35:02 2024 +0200
+
+    Call method makeBigStringForm in main class
+
+commit 8a0585e2acf3694b01ac74df917bab5257d30c1e
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sun Apr 14 16:29:28 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 530544009f6eeff4bc5d81be3d53cc43a9c765ee
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sun Apr 14 16:10:36 2024 +0200
+
+    Fix wrong condition in makeBigStringForm
+
+commit bd837403a7e79b77738e5cd077051026a3933dc3
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sun Apr 14 16:06:23 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b0ac067dec603a85b483f4a3cb60c59427c67672
+Merge: 756c990 2b79542
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sun Apr 14 00:01:28 2024 +0200
+
+    Resolve merge conflicts
+
+commit 2b79542e1ef7a7774ea110d94ca17935770823cb
+Author: elenaefremovskainf <166954400+elenaefremovskainf@users.noreply.github.com>
+Date:   Sat Apr 13 23:46:37 2024 +0200
+
+    Update SILab1_2.java
+
+commit 754d7eb7fe405088291ab89aa660bf9a19e07103
+Author: elenaefremovskainf <166954400+elenaefremovskainf@users.noreply.github.com>
+Date:   Sat Apr 13 23:44:50 2024 +0200
+
+    Update SILab1_1.java
+
+commit 7f6e9bf125d3466aefb2939e57c868a11b84d98e
+Author: elenaefremovskainf <166954400+elenaefremovskainf@users.noreply.github.com>
+Date:   Sat Apr 13 23:35:20 2024 +0200
+
+    Add files via upload
+    
+    Add starter code
+
+commit 0ca624e1e8abee34eb8420f07e48a1109cb37044
+Author: elenaefremovskainf <166954400+elenaefremovskainf@users.noreply.github.com>
+Date:   Sat Apr 13 23:32:45 2024 +0200
+
+    Create README.md
+
+commit 756c990b444a27b866677530991bfb074659ff9e
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sat Apr 13 23:26:19 2024 +0200
+
+    Add starter code
+
+commit ae1615e1951f090cf30f517b4bf9905cc4a3c4bc
+Author: Elena <elena.prog.codelabexplorer@gmail.com>
+Date:   Sat Apr 13 23:14:49 2024 +0200
+
+    Initial commit
